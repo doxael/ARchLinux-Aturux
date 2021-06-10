@@ -12,6 +12,8 @@ keep the installation process as user friendly as possible.
 
 ![preview](https://media.giphy.com/media/kGQ5M2i1oVTk3I1t4o/giphy.gif)
 
+Some modifications has been performed by me (Doxael) for support ZEN Kernel and improve compatibility with NVIDIA Graphic cards
+
 ## Usage
 
 ### Prerequisites
