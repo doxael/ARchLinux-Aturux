@@ -30,8 +30,8 @@ Some modifications has been performed by me (Doxael) for support ZEN Kernel and 
 
      `mount -o remount,size=1G /run/archiso/cowspace`
 
-2. Clone this repository: `git clone git://github.com/gorkawien/Aturux-OS`
-3. Run the script: `cd Aturux-OS/ && chmod +x setup && ./setup`
+2. Clone this repository: `git clone https://github.com/doxael/ARchLinux-Aturux.git`
+3. Run the script: `chmod +x setup && ./setup`
 
 ## Features
 
